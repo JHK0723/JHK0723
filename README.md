@@ -151,7 +151,7 @@ Alongside core SWE, I work on applied AI systems, intelligent agents, and data-d
 ## 🔥 Top Languages
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHK0723&layout=compact&langs_count=8"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JHK0723&layout=compact" />
 </p>
 
 ---
