@@ -37,7 +37,7 @@ Alongside core SWE, I work on applied AI systems, intelligent agents, and data-d
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,sql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,,js,sql" />
 </p>
 
 ---
@@ -151,8 +151,9 @@ Alongside core SWE, I work on applied AI systems, intelligent agents, and data-d
 ## 🔥 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHK0723&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHK0723&layout=compact" />
 </p>
+
 
 ---
 
