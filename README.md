@@ -140,9 +140,9 @@ Alongside core SWE, I work on applied AI systems, intelligent agents, and data-d
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=JHK0723&show_icons=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JHK0723" />
 
 </p>
 
@@ -151,7 +151,7 @@ Alongside core SWE, I work on applied AI systems, intelligent agents, and data-d
 ## 🔥 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHK0723&layout=compact" />
 </p>
 
 ---
@@ -163,4 +163,4 @@ Alongside core SWE, I work on applied AI systems, intelligent agents, and data-d
 
 ---
 
-⭐ Always learning. Always building scalable systems.
+⭐ Always learning, always building scalable systems.
