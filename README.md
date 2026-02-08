@@ -133,6 +133,7 @@ Alongside core SWE, I work on applied AI systems, intelligent agents, and data-d
 - Applied AI Engineering
 - Scalable API Architecture
 - Deep Learning
+- Machine Learning
 
 ---
 
