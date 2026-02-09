@@ -53,6 +53,9 @@ Alongside core SWE, I work on applied AI systems, intelligent agents, and data-d
 - Socket.IO
 - Real-time Systems
 - Event-driven Architecture
+- Logging
+- Django-Silk Profiler for bottleneck Identification
+- Apache JMeter for Load Testing
 
 ---
 
