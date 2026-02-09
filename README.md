@@ -55,7 +55,7 @@ Alongside core SWE, I work on applied AI systems, intelligent agents, and data-d
 - Event-driven Architecture
 - Logging
 - Django-Silk Profiler for bottleneck Identification
-- Apache JMeter for Load Testing
+- Apache JMeter for Load Testing in Concurrent systems
 
 ---
 
