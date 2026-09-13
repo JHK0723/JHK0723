@@ -15,11 +15,11 @@
 <a href="https://www.linkedin.com/in/harish-krishnaj/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:jhkrishofficial@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/JHK0723">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
@@ -40,17 +40,18 @@ Backend Engineer · Distributed Systems · Agentic AI
 <h2 align="center">⚡ What I Do</h2>
 
 <p align="center">
-<samp>
+Hey! I'm <b>Harish Krishna J</b> — a CS undergrad at <b>VIT Chennai</b> (CGPA: 8.83/10) with a strong focus on <b>Backend Engineering, Distributed Systems, and Agentic AI</b>.
+<br><br>
+I build software that scales and handles complex production workloads. My experience spans architecting <b>10+ autonomous AI agents</b>, building <b>Natural Language → SQL engines</b>, cutting workflow latency by <b>60%</b>, and engineering <b>distributed ML job schedulers</b> with fault tolerance.
+<br><br>
+Whether I'm optimizing API response times, designing database schemas across 10+ entities, or leading AI workshops for 70+ peers — I love digging into system internals and turning enterprise data into clean, reliable products.
+</p>
 
-🚀 <b>Build Scalable Backend Systems</b>
-<br>
-🌐 <b>Design Distributed Architecture & ML Platforms</b>
-<br>
-🤖 <b>Build Autonomous AI Agents & Multi-Agent RAG Systems</b>
-<br>
-📊 <b>Turn Enterprise Data into Intelligent Products (NL → SQL)</b>
-
-</samp>
+<p align="center">
+  <code><b>🚀 Scalable Backend Systems</b></code> &nbsp;•&nbsp;
+  <code><b>🌐 Distributed Architecture</b></code> &nbsp;•&nbsp;
+  <code><b>🤖 Autonomous AI Agents</b></code> &nbsp;•&nbsp;
+  <code><b>📊 NL → SQL & Enterprise Data</b></code>
 </p>
 
 
@@ -127,11 +128,11 @@ Performance Profiling · Load Testing
 <p align="center">
 
 <img src="https://img.shields.io/badge/10%2B-AI%20AGENTS-6366F1?style=flat-square"/>
-
+&nbsp;
 <img src="https://img.shields.io/badge/60%25-LATENCY%20REDUCTION-8B5CF6?style=flat-square"/>
-
+&nbsp;
 <img src="https://img.shields.io/badge/35%25-API%20IMPROVEMENT-3B82F6?style=flat-square"/>
-
+&nbsp;
 <img src="https://img.shields.io/badge/190%2B-TEAMS%20COMPETED-06B6D4?style=flat-square"/>
 
 </p>
@@ -351,7 +352,7 @@ height="180"
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JHK0723&theme=tokyonight"
 alt="GitHub Profile Details"
 />
-
+&nbsp;
 <img
 height="180"
 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JHK0723&theme=tokyonight"
@@ -474,7 +475,7 @@ Technical workshops · AI initiatives · 70+ participants
 <a href="https://leetcode.com/u/JHK_1111/">
 <img src="https://img.shields.io/badge/LeetCode-JHK__1111-F2C94C?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-
+&nbsp;
 <a href="https://www.hackerrank.com/profile/jhk0723">
 <img src="https://img.shields.io/badge/HackerRank-jhk0723-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
