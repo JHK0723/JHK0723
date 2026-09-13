@@ -40,7 +40,7 @@ Backend Engineer · Distributed Systems · Agentic AI
 <h2 align="center">⚡ What I Do</h2>
 
 <p align="center">
-Hey! I'm <b>Harish Krishna J</b> — a CS undergrad at <b>VIT Chennai</b> (CGPA: 8.83/10) with a strong focus on <b>Backend Engineering, Distributed Systems, and Agentic AI</b>.
+Hey! I'm <b>Harish Krishna J</b> — a CS undergrad at <b>VIT Chennai</b> with a strong focus on <b>Backend Engineering, Distributed Systems, and Agentic AI</b>.
 <br><br>
 I build software that scales and handles complex production workloads. My experience spans architecting <b>10+ autonomous AI agents</b>, building <b>Natural Language → SQL engines</b>, cutting workflow latency by <b>60%</b>, and engineering <b>distributed ML job schedulers</b> with fault tolerance.
 <br><br>
