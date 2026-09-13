@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:4F46E5&height=210&section=header&text=JHK&fontSize=68&fontColor=E2E8F0&animation=twinkling&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:4F46E5&height=210&section=header&text=Harish%20Krishna%20J&fontSize=48&fontColor=E2E8F0&animation=twinkling&fontAlignY=40" width="100%"/>
 
 <br>
 
@@ -42,13 +42,13 @@ Backend Engineer · Distributed Systems · Agentic AI
 <p align="center">
 <samp>
 
-build scalable backend systems
+🚀 <b>Build Scalable Backend Systems</b>
 <br>
-design distributed systems
+🌐 <b>Design Distributed Architecture & ML Platforms</b>
 <br>
-build autonomous AI agents
+🤖 <b>Build Autonomous AI Agents & Multi-Agent RAG Systems</b>
 <br>
-turn enterprise data into intelligent products
+📊 <b>Turn Enterprise Data into Intelligent Products (NL → SQL)</b>
 
 </samp>
 </p>
@@ -143,72 +143,74 @@ Performance Profiling · Load Testing
 
 <h2 align="center">💼 Experience</h2>
 
-<table align="center">
+<table align="center" width="100%">
 
 <tr>
 <td width="100%">
 
-### 🤖 AI Products Intern — Logesys Solutions
+### 🤖 AI Products Intern — Logesys Solutions India Pvt Ltd
 
 <samp>
-Enterprise AI · LangGraph · Google ADK · NL → SQL
+May 2026 – June 2026 · Python · Agentic AI · LangGraph · Google ADK · PostgreSQL · MSSQL · Snowflake · Databricks · LLMs
 </samp>
 
 <br><br>
 
-• Architecting <b>10+ autonomous AI agents</b> for enterprise AutoInsights  
+• Architecting <b>10+ autonomous AI agents</b> and workflow orchestration for enterprise AutoInsights  
 <br>
-• Migrated critical workflows from Google ADK to LangGraph  
+• Modernized ASK Agent workflows by migrating critical pipelines from Google ADK to LangGraph, reducing execution latency by <b>up to 60%</b>  
 <br>
-• Reduced end-to-end execution latency by <b>up to 60%</b>  
+• Built ASK Agent, a metadata-driven Natural Language → SQL platform adapting to org schemas with interactive Highcharts visualizations  
 <br>
-• Engineering metadata-driven Natural Language → SQL systems  
-<br>
-• Building retrieval pipelines for web intelligence and enterprise analytics
+• Built AI-powered retrieval pipelines using Trafilatura, Tavily, DuckDuckGo Search, and Google SERP API
 
 </td>
 </tr>
 
+</table>
+
+<table align="center" width="100%">
+
 <tr>
 <td width="100%">
 
-### ⚡ Software Development Intern — Nexrova
+### ⚡ Software Development Intern — Nexrova Technologies Pvt Ltd
 
 <samp>
-FastAPI · REST APIs · Python · SQL · Database Architecture
+Dec 2025 – Jan 2026 · FastAPI · REST APIs · Python · SQL · Database Architecture · SDLC
 </samp>
 
 <br><br>
 
-• Designed and implemented REST APIs for hospitality workflows  
+• Designed and implemented REST APIs supporting customer-facing hospitality workflows, including automated guest check-in  
 <br>
-• Designed database schemas across <b>10+ entities</b>  
+• Designed and optimized database schemas across <b>10+ entities</b> to manage bookings, guests, sessions, and audit data  
 <br>
-• Built automated guest check-in workflows  
-<br>
-• Worked with a 4-member engineering team on MVP planning and technical discussions
+• Collaborated with a 4-member engineering team on Agile sprint execution, API integration, and technical design discussions
 
 </td>
 </tr>
 
+</table>
+
+<table align="center" width="100%">
+
 <tr>
 <td width="100%">
 
-### 🧩 Software Development Intern — Promon
+### 🧩 Software Development Intern — Promon Software Solutions Pvt Ltd
 
 <samp>
-Django REST Framework · SQL · Performance Profiling · JMeter
+June 2025 – July 2025 · Django REST Framework · Python · SQL · Performance Profiling · JMeter · SDLC
 </samp>
 
 <br><br>
 
-• Built and maintained REST APIs for identity validation services  
+• Built and maintained REST APIs using Django REST Framework for internal identity validation services  
 <br>
-• Improved API response times by approximately <b>35%</b>  
+• Improved API response times by approximately <b>35%</b> by profiling performance bottlenecks with Django Silk and optimizing database queries  
 <br>
-• Profiled bottlenecks using Django Silk  
-<br>
-• Directed load and stress testing using Apache JMeter
+• Conducted performance profiling, load and stress testing using Apache JMeter to evaluate system reliability under concurrent traffic
 
 </td>
 </tr>
@@ -228,7 +230,7 @@ Django REST Framework · SQL · Performance Profiling · JMeter
 
 <td width="50%" align="center">
 
-<h3>🎓 AI Academic Assistant</h3>
+### 🎓 AI Academic Assistant
 
 <samp>
 Full-stack AI platform built for VIT students
@@ -253,7 +255,7 @@ PYQ Analytics · AI Chat · PDF Generation
 
 <td width="50%" align="center">
 
-<h3>⚙️ JanusForge</h3>
+### ⚙️ JanusForge
 
 <samp>
 Distributed ML job execution platform
@@ -282,7 +284,7 @@ Distributed Hyperparameter Optimization
 
 <td width="50%" align="center">
 
-<h3>⚖️ ClauseVader</h3>
+### ⚖️ ClauseVader
 
 <samp>
 AI-powered legal contract analyzer
@@ -311,7 +313,7 @@ PDF / DOCX Processing
 
 <td width="50%" align="center">
 
-<h3>🤖 Enterprise AI Systems</h3>
+### 🤖 Enterprise AI Systems
 
 <samp>
 Intelligent analytics and retrieval systems
@@ -346,14 +348,14 @@ Retrieval Pipelines
 
 <img
 height="180"
-src="https://github-readme-stats-anuraghazra.vercel.app/api?username=JHK0723&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1&icon_color=A78BFA"
-alt="GitHub statistics"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JHK0723&theme=tokyonight"
+alt="GitHub Profile Details"
 />
 
 <img
 height="180"
-src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=JHK0723&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1"
-alt="Top languages"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JHK0723&theme=tokyonight"
+alt="GitHub Statistics"
 />
 
 </p>
@@ -373,7 +375,6 @@ alt="GitHub contribution streak"
 />
 
 </p>
-
 
 
 <!-- ========================================================= -->
@@ -401,24 +402,11 @@ alt="3D contribution profile"
 
 <p align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/JHK0723/JHK0723/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/JHK0723/JHK0723/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/JHK0723/JHK0723/output/github-contribution-grid-snake.svg"
-    width="95%"
-    alt="GitHub contribution snake"
-  />
-
-</picture>
+<img
+src="https://raw.githubusercontent.com/JHK0723/JHK0723/output/github-contribution-grid-snake-dark.svg"
+width="95%"
+alt="GitHub Contribution Snake"
+/>
 
 </p>
 
@@ -510,6 +498,7 @@ Building things that should probably be automated
 
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:4F46E5&height=120&section=footer"
+width="100%"
 />
 
 </div>
