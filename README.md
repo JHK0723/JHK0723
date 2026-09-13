@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&height=50&lines=hi%2C+i'm+harish+%F0%9F%91%8B;backend+%2B+distributed+systems;building+agentic+AI+systems;turning+ideas+into+systems+that+scale" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&height=50&lines=Hi%2C+I'm+Harish+Krishna+J+%F0%9F%91%8B;Backend+%2B+Distributed+Systems;Building+Agentic+AI+Systems;Turning+Ideas+Into+Systems+That+Scale" />
 
 <br><br>
 
@@ -37,7 +37,7 @@ Backend Engineer · Distributed Systems · Agentic AI
 <!--                         ABOUT                             -->
 <!-- ========================================================= -->
 
-<h2 align="center">⚡ what i do</h2>
+<h2 align="center">⚡ What I Do</h2>
 
 <p align="center">
 <samp>
@@ -58,7 +58,7 @@ turn enterprise data into intelligent products
 <!--                       LANGUAGES                           -->
 <!-- ========================================================= -->
 
-<h3 align="center">languages</h3>
+<h3 align="center">Languages</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts&perline=6"/>
@@ -69,7 +69,7 @@ turn enterprise data into intelligent products
 <!--                 BACKEND & DATABASES                      -->
 <!-- ========================================================= -->
 
-<h3 align="center">backend & databases</h3>
+<h3 align="center">Backend & Databases</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=fastapi,django,flask,postgresql,mongodb,mysql,sqlite,docker,supabase&perline=9"/>
@@ -80,7 +80,7 @@ turn enterprise data into intelligent products
 <!--                         AI / ML                           -->
 <!-- ========================================================= -->
 
-<h3 align="center">ai / ml</h3>
+<h3 align="center">AI / ML</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=6"/>
@@ -101,7 +101,7 @@ Optuna · NumPy · Pandas · Computer Vision
 <!--                   TOOLS & ENGINEERING                    -->
 <!-- ========================================================= -->
 
-<h3 align="center">tools & engineering</h3>
+<h3 align="center">Tools & Engineering</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman,aws&perline=7"/>
@@ -122,7 +122,7 @@ Performance Profiling · Load Testing
 <!--                  ENGINEERING HIGHLIGHTS                  -->
 <!-- ========================================================= -->
 
-<h2 align="center">⚡ engineering highlights</h2>
+<h2 align="center">⚡ Engineering Highlights</h2>
 
 <p align="center">
 
@@ -141,7 +141,7 @@ Performance Profiling · Load Testing
 <!--                       EXPERIENCE                          -->
 <!-- ========================================================= -->
 
-<h2 align="center">💼 experience</h2>
+<h2 align="center">💼 Experience</h2>
 
 <table align="center">
 
@@ -220,7 +220,7 @@ Django REST Framework · SQL · Performance Profiling · JMeter
 <!--                     FEATURED PROJECTS                     -->
 <!-- ========================================================= -->
 
-<h2 align="center">🛠️ featured projects</h2>
+<h2 align="center">🛠️ Featured Projects</h2>
 
 <table align="center">
 
@@ -340,19 +340,19 @@ Retrieval Pipelines
 <!--                    GITHUB STATISTICS                      -->
 <!-- ========================================================= -->
 
-<h2 align="center">📊 github statistics</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
 
 <img
 height="180"
-src="https://github-readme-stats.vercel.app/api?username=JHK0723&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1&icon_color=A78BFA"
+src="https://github-readme-stats-anuraghazra.vercel.app/api?username=JHK0723&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1&icon_color=A78BFA"
 alt="GitHub statistics"
 />
 
 <img
 height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHK0723&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1"
+src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=JHK0723&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1"
 alt="Top languages"
 />
 
@@ -363,37 +363,24 @@ alt="Top languages"
 <!--                  GITHUB STREAK                           -->
 <!-- ========================================================= -->
 
-<h2 align="center">🔥 contribution activity</h2>
+<h2 align="center">🔥 Contribution Activity</h2>
 
 <p align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=JHK0723&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=A78BFA&currStreakLabel=60A5FA"
+src="https://streak-stats.demolab.com/?user=JHK0723&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=A78BFA&currStreakLabel=60A5FA"
 alt="GitHub contribution streak"
 />
 
 </p>
 
 
-<!-- ========================================================= -->
-<!--                  ACTIVITY GRAPH                           -->
-<!-- ========================================================= -->
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=JHK0723&bg_color=0D1117&color=CBD5E1&line=6366F1&point=60A5FA&area=true&hide_border=true"
-width="95%"
-/>
-
-</p>
-
 
 <!-- ========================================================= -->
 <!--                 3D CONTRIBUTION                          -->
 <!-- ========================================================= -->
 
-<h2 align="center">🌐 3D contribution profile</h2>
+<h2 align="center">🌐 3D Contribution Profile</h2>
 
 <p align="center">
 
@@ -410,7 +397,7 @@ alt="3D contribution profile"
 <!--                  CONTRIBUTION SNAKE                      -->
 <!-- ========================================================= -->
 
-<h2 align="center">🐍 contribution snake</h2>
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
 
@@ -440,7 +427,7 @@ alt="3D contribution profile"
 <!--                       ACHIEVEMENTS                        -->
 <!-- ========================================================= -->
 
-<h2 align="center">🏆 achievements</h2>
+<h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
 
@@ -473,7 +460,7 @@ UT Austin · 2024
 <!--                       LEADERSHIP                          -->
 <!-- ========================================================= -->
 
-<h2 align="center">👥 leadership</h2>
+<h2 align="center">👥 Leadership</h2>
 
 <p align="center">
 
@@ -492,7 +479,7 @@ Technical workshops · AI initiatives · 70+ participants
 <!--                    PROBLEM SOLVING                        -->
 <!-- ========================================================= -->
 
-<h2 align="center">🧠 problem solving</h2>
+<h2 align="center">🧠 Problem Solving</h2>
 
 <p align="center">
 
@@ -516,7 +503,7 @@ Technical workshops · AI initiatives · 70+ participants
 <br>
 
 <samp>
-building things that should probably be automated
+Building things that should probably be automated
 </samp>
 
 <br><br>
