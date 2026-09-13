@@ -416,33 +416,34 @@ alt="GitHub Contribution Snake"
 <!--                       ACHIEVEMENTS                        -->
 <!-- ========================================================= -->
 
-<h2 align="center">🏆 Achievements</h2>
+<h2 align="center">🏆 Achievements & Certifications</h2>
 
-<p align="center">
-
-🥇 <b>Innovative Product Award</b>
-<br>
-FedEx + JA India International Trade Challenge
-
-<br><br>
-
-🏆 <b>4th Place — ClauseVader</b>
-<br>
-190+ teams
-
-<br><br>
-
-📜 <b>Scientific Computing with Python</b>
-<br>
-freeCodeCamp · 2025
-
-<br><br>
-
-📜 <b>Linear Algebra: Foundations to Frontiers</b>
-<br>
-UT Austin · 2024
-
-</p>
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center">
+  🥇 <b>Innovative Product Award</b>
+  <br>
+  <samp>FedEx + JA India International Trade Challenge</samp>
+</td>
+<td width="50%" align="center">
+  🏆 <b>4th Place / 190+ Teams</b>
+  <br>
+  <samp>ClauseVader — Legal Contract AI Analyzer</samp>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  📜 <b>Scientific Computing with Python</b>
+  <br>
+  <samp>freeCodeCamp · 2025</samp>
+</td>
+<td width="50%" align="center">
+  📜 <b>Linear Algebra: Foundations to Frontiers</b>
+  <br>
+  <samp>UT Austin / edX · 2024</samp>
+</td>
+</tr>
+</table>
 
 
 <!-- ========================================================= -->
@@ -451,17 +452,15 @@ UT Austin · 2024
 
 <h2 align="center">👥 Leadership</h2>
 
-<p align="center">
-
-<b>Microsoft Innovations Club</b>
-<br>
-AI Agents Team Lead
-
-<br><br>
-
-Technical workshops · AI initiatives · 70+ participants
-
-</p>
+<table align="center" width="100%">
+<tr>
+<td width="100%" align="center">
+  🤖 <b>Microsoft Innovations Club</b> — <i>AI Agents Team Lead</i>
+  <br><br>
+  <samp>Coordinated technical workshops & software engineering initiatives engaging <b>70+ participants</b> in AI/ML</samp>
+</td>
+</tr>
+</table>
 
 
 <!-- ========================================================= -->
@@ -471,15 +470,13 @@ Technical workshops · AI initiatives · 70+ participants
 <h2 align="center">🧠 Problem Solving</h2>
 
 <p align="center">
-
 <a href="https://leetcode.com/u/JHK_1111/">
 <img src="https://img.shields.io/badge/LeetCode-JHK__1111-F2C94C?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/profile/jhk0723">
 <img src="https://img.shields.io/badge/HackerRank-jhk0723-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
-
 </p>
 
 
