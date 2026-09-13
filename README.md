@@ -1,258 +1,171 @@
-# Hi 👋, I'm Harish Krishna J
+# `HK`
 
 <p align="center">
-Software Engineer • Backend Developer • AI Systems Engineer
+  <samp>hi, i'm harish!</samp>
 </p>
 
 <p align="center">
-AI Products Intern @ Logesys Solutions <br>
-Ex-SDE Intern @ Promon & Nexrova <br>
-AI Agents Team Lead — Microsoft Innovations Club VIT Chennai
+  <a href="https://www.linkedin.com/in/harish-krishnaj/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jhkrishofficial@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/JHK0723">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Software Engineer • Backend Developer • AI Systems Engineer</b>
+</p>
+
+<p align="center">
+  AI Products Intern @ Logesys Solutions · Ex-SDE Intern @ Promon & Nexrova
+  <br>
+  AI Agents Team Lead — Microsoft Innovations Club VIT Chennai
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## `languages`
 
-I am a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning at VIT Chennai.
-
-My primary focus is building scalable backend systems using strong software engineering fundamentals — Data Structures & Algorithms, Object-Oriented Programming, database design, and distributed systems.
-
-Alongside core software engineering, I enjoy building AI-powered applications, multi-agent systems, retrieval pipelines, and data-driven products with real-world deployment experience.
-
----
-
-## 🧠 Core Engineering Skills
-
-### Software Engineering
-
-* Data Structures & Algorithms (DSA)
-* Object-Oriented Programming (OOP)
-* Database Management Systems (DBMS)
-* Operating Systems (OS)
-* Distributed Systems
-* API Design & Backend Architecture
-* System Design Fundamentals
-* Performance Optimization
-* Clean Code & Modular Development
-
----
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts" />
 </p>
 
-* SQL
-* HTML
-* CSS
-
 ---
 
-### Backend & Engineering
+## `backend & databases`
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,postgresql,mongodb,sqlite,docker,git,github" />
 </p>
 
-* REST API Design
-* WebSockets
-* Real-time Systems
-* Event-driven Architecture
-* Authentication & Authorization
-* Logging
-* SQLAlchemy
-* Django Silk Profiling
-* Apache JMeter Load Testing
-
 ---
 
-### Databases & Tools
+## `ai / ml`
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,docker,git,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
 </p>
 
-* PostgreSQL
-* MongoDB
-* SQLite
-* Supabase
-* Docker
-* Git
-
----
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch" />
+<p align="center">
+  <samp>
+    LangGraph · OpenAI Agents SDK · RAG · Multi-Agent Systems
+    <br>
+    NumPy · Pandas · Matplotlib · Seaborn · Optuna
+  </samp>
 </p>
 
-* LangGraph
-* OpenAI Agents SDK
-* Agentic AI
-* Multi-Agent Systems
-* Retrieval-Augmented Generation (RAG)
-* Scikit-Learn
-* Optuna
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
+---
+
+## `engineering`
+
+<p align="center">
+  <samp>
+    DSA · OOP · DBMS · OS · Distributed Systems · System Design
+    <br>
+    REST APIs · WebSockets · Event-Driven Architecture
+    <br>
+    Authentication · Profiling · Load Testing · Performance Optimization
+  </samp>
+</p>
 
 ---
 
-## 🧩 Problem Solving & Competitive Programming
+## `what i'm building`
 
-* LeetCode: https://leetcode.com/u/JHK_1111/
-* HackerRank: https://www.hackerrank.com/profile/jhk0723
-
-### Current Focus Areas
-
-* Data Structures & Algorithms
-* Binary Search
-* Trees & BSTs
-* Graphs
-* Dynamic Programming
-* System Design Fundamentals
-
----
-
-## 🚀 Experience Highlights
-
-### 🤖 AI Products Intern — Logesys Solutions
-
-* Building enterprise-scale AI systems for AutoInsights
-* Architecting 10+ autonomous AI agents
-* Developing Natural Language-to-SQL systems
-* Building metadata-driven analytics workflows
-* Creating AI-powered retrieval pipelines
-* Working with PostgreSQL, MSSQL, Snowflake, and Databricks
-* Developing business intelligence solutions with automated insights and visualizations
-
----
-
-### ⚡ Software Development Intern — Nexrova
-
-* Designed scalable FastAPI backend workflows
-* Architected relational database schemas across 10+ entities
-* Developed automated backend logic supporting core hospitality workflows
-* Collaborated on MVP planning and technical discussions
-
----
-
-### 🧩 Software Development Intern — Promon
-
-* Built and optimized REST APIs using Django REST Framework
-* Improved API performance by ~35%
-* Conducted load and stress testing using Apache JMeter
-* Implemented profiling and performance optimization using Django Silk
-
----
-
-## 🚀 Projects
+<table align="center">
+<tr>
+<td width="50%">
 
 ### 🎓 AI Academic Assistant
 
-Full-stack AI-powered academic platform built for VIT students.
+Full-stack AI platform for VIT students.
 
-* OCR-powered document processing
-* PYQ analytics and question paper generation
-* PDF export functionality
-* Intelligent academic chatbot
-* RAG-based retrieval pipeline
-* Multi-agent orchestration using OpenAI Agents SDK
-* JWT authentication and Supabase integration
+- OCR document processing
+- PYQ analytics
+- AI academic chatbot
+- RAG pipeline
+- Multi-agent orchestration
+- JWT authentication
+- Supabase
 
----
+</td>
 
-### ⚙️ JanusForge — Distributed ML Job Platform
+<td width="50%">
 
-Distributed machine learning platform for submitting and executing training workloads across worker nodes.
+### ⚙️ JanusForge
 
-* Distributed FastAPI services
-* Hardware-aware scheduling
-* Worker registration and heartbeat monitoring
-* Automatic retries and stale-job recovery
-* Distributed Hyperparameter Optimization using Optuna
-* Parallel trial execution across multiple workers
+Distributed ML job execution platform.
 
----
+- Distributed FastAPI services
+- Hardware-aware scheduling
+- Worker heartbeats
+- Automatic retries
+- Stale-job recovery
+- Distributed Optuna optimization
 
-### ⚖️ ClauseVader — AI Legal Contract Analyzer
+</td>
+</tr>
 
-AI-powered legal contract analysis platform.
+<tr>
+<td width="50%">
 
-* Parse PDF and DOCX contracts
-* Simplify legal clauses and summarize intent
-* Clause-level risk and fairness scoring
-* Interactive GPT-4 powered contract Q&A
-* Secure document history and storage
-* Built with FastAPI, Next.js, PostgreSQL, Vercel and Railway
+### ⚖️ ClauseVader
 
-🏆 Led a 3-member team to **4th Place among 190+ teams**
+AI-powered legal contract analyzer.
 
----
+- Contract parsing
+- Clause simplification
+- Risk & fairness scoring
+- GPT-powered Q&A
+- Secure document history
+- FastAPI + Next.js + PostgreSQL
 
-## 🏆 Achievements
+🏆 **4th / 190+ teams**
 
-* 🥇 Innovative Product Award — FedEx + JA India International Trade Challenge (2023)
-* 🏅 4th Place — ClauseVader AI Legal Contract Analyzer (190+ teams)
-* 📜 Scientific Computing with Python — freeCodeCamp (2025)
-* 📜 Linear Algebra: Foundations to Frontiers (LAFF) — UT Austin (2024)
+</td>
 
----
+<td width="50%">
 
-## 🤝 Leadership & Community
+### 🤖 AI Systems
 
-### Microsoft Innovations Club — AI Agents Team Lead
+Currently working on enterprise AI systems involving:
 
-* Leading AI agent-based projects and initiatives
-* Coordinating workshops and technical events
-* Collaborating across AI/ML and Entrepreneurship teams
-* Engaging 70+ participants through club activities
+- Autonomous AI agents
+- Natural Language → SQL
+- Metadata-driven analytics
+- Retrieval pipelines
+- Automated business insights
 
----
-
-## 📈 Current Focus
-
-* Backend Engineering
-* Distributed Systems
-* Large Language Models (LLMs)
-* Multi-Agent Systems
-* Retrieval-Augmented Generation (RAG)
-* System Design
-* Machine Learning
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## `experience`
 
-<p align="center">
+```text
+AI Products Intern
+└── Logesys Solutions
+    ├── Enterprise AI systems for AutoInsights
+    ├── 10+ autonomous AI agents
+    ├── Natural Language → SQL
+    ├── Retrieval & analytics pipelines
+    └── PostgreSQL · MSSQL · Snowflake · Databricks
 
-<img src="https://github-readme-stats.vercel.app/api?username=JHK0723&show_icons=true" />
+Software Development Intern
+└── Nexrova
+    ├── FastAPI backend workflows
+    ├── Relational database architecture
+    └── Hospitality workflow automation
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JHK0723" />
-
-</p>
-
----
-
-## 🔥 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JHK0723&layout=compact" />
-</p>
-
----
-
-## 🌎 Connect
-
-* LinkedIn: https://www.linkedin.com/in/harish-krishnaj/
-* GitHub: https://github.com/JHK0723
-* Email: [jhkrishofficial@gmail.com](mailto:jhkrishofficial@gmail.com)
-
----
-
-⭐ Always learning, always building scalable systems.
+Software Development Intern
+└── Promon
+    ├── Django REST APIs
+    ├── ~35% API performance improvement
+    ├── Apache JMeter load testing
+    └── Django Silk profiling
