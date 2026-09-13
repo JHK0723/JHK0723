@@ -347,11 +347,13 @@ Retrieval Pipelines
 <img
 height="180"
 src="https://github-readme-stats.vercel.app/api?username=JHK0723&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1&icon_color=A78BFA"
+alt="GitHub statistics"
 />
 
 <img
 height="180"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHK0723&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1"
+alt="Top languages"
 />
 
 </p>
@@ -367,6 +369,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHK0723&layo
 
 <img
 src="https://github-readme-streak-stats.herokuapp.com/?user=JHK0723&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=A78BFA&currStreakLabel=60A5FA"
+alt="GitHub contribution streak"
 />
 
 </p>
@@ -397,6 +400,7 @@ width="95%"
 <img
 src="./profile-3d-contrib/profile-night-rainbow.svg"
 width="95%"
+alt="3D contribution profile"
 />
 
 </p>
@@ -410,10 +414,24 @@ width="95%"
 
 <p align="center">
 
-<img
-src="./output/github-contribution-grid-snake.svg"
-width="95%"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/JHK0723/JHK0723/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/JHK0723/JHK0723/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/JHK0723/JHK0723/output/github-contribution-grid-snake.svg"
+    width="95%"
+    alt="GitHub contribution snake"
+  />
+
+</picture>
 
 </p>
 
